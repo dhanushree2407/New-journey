@@ -1,0 +1,10 @@
+{
+  "name": "react-app-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix AK run dev",
+    "build": "npm --prefix AK run build",
+    "lint": "npm --prefix AK run lint",
+    "preview": "npm --prefix AK run preview"
+  }
+}
